@@ -7,7 +7,7 @@
     color: transparent;
 }
 
-.accordion-heading {
+.accordion-head {
     font-family: Poppins;
     font-size: 48px;
 
@@ -66,7 +66,7 @@
     opacity: 70%;
 }
 
-.first-accordian {
+.accordian-one {
     background-image: url(/assets/images/accordian-img-one.png);
     background-size: cover;
     background-repeat: no-repeat;
@@ -85,14 +85,6 @@
     background-color: var(--black);
 }
 
-.border-accordian {
-    position: relative;
-
-    padding-top: 20px;
-
-    border: 1px solid #ddd;
-
-}
 
 
 

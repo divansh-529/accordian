@@ -1,0 +1,113 @@
+@import url(./root.css);
+
+.question {
+    background: linear-gradient(90deg, #815cc8 0%, #1babfe 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
+
+.accordion-heading {
+    font-family: Poppins;
+    font-size: 48px;
+
+    line-height: 72px;
+    color: white;
+}
+
+.accordion-button {
+    box-shadow: none !important;
+}
+
+.accordion-item {
+    border: none !important;
+}
+
+.font-600-18 {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.font-400-18 {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.bg-blur {
+    background: linear-gradient(180deg,
+            rgba(255, 255, 255, 0.1) 0%,
+            rgba(255, 255, 255, 0.03) 100%) !important;
+}
+
+
+.box-1 {
+    width: 922px;
+    height: 100%;
+}
+
+.boxs {
+    background: var(--lightyellow) !important;
+}
+
+.amet {
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 27px;
+    text-align: left;
+    color: var(--black);
+}
+
+.enim-text {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 32.4px;
+    text-align: left;
+    color: var(--black);
+    opacity: 70%;
+}
+
+.first-accordian {
+    background-image: url(/assets/images/accordian-img-one.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.second-accordian {
+    background-color: yellow;
+}
+
+.faq {
+    color: white;
+}
+
+.third-accordian {
+    background-color: var(--black);
+}
+
+.border-accordian {
+    position: relative;
+
+    padding-top: 20px;
+
+    border: 1px solid #ddd;
+
+}
+
+
+
+.third-accordian {
+    background-image: url(/assets/images/accordian-img-.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.min-height-93 {
+    min-height: 93px;
+}
+
+.border-accordian {
+    border: 1px solid #1EADB6 !important;
+    border-top-left-radius: 41px !important;
+    border-bottom-right-radius: 41px !important;
+}
